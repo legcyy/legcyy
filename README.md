@@ -1,3 +1,20 @@
-working on a roblox executor rn :3
-current WIP but undetected and should be able to run even high tier scripts :)
-enjoy and have fun exploiting!
+Legacy Executor is now out and better than ever
+With its new and improved byfron bypass, it is undetected on all games (your script may be detected so be careful) and easy to use
+Run, inject and execute, its that simple
+Have fun exploiting everyone 
+
+
+
+
+
+$$\                                                               $$$$$$\                  $$$$$$$$\                        
+$$ |                                                             $$  __$$\                 \__$$  __|                       
+$$ |      $$$$$$\   $$$$$$\   $$$$$$\   $$$$$$$\ $$\   $$\       $$ /  $$ |$$$$$$$\           $$ | $$$$$$\   $$$$$$\        
+$$ |     $$  __$$\ $$  __$$\  \____$$\ $$  _____|$$ |  $$ |      $$ |  $$ |$$  __$$\          $$ |$$  __$$\ $$  __$$\       
+$$ |     $$$$$$$$ |$$ /  $$ | $$$$$$$ |$$ /      $$ |  $$ |      $$ |  $$ |$$ |  $$ |         $$ |$$ /  $$ |$$ /  $$ |      
+$$ |     $$   ____|$$ |  $$ |$$  __$$ |$$ |      $$ |  $$ |      $$ |  $$ |$$ |  $$ |         $$ |$$ |  $$ |$$ |  $$ |      
+$$$$$$$$\\$$$$$$$\ \$$$$$$$ |\$$$$$$$ |\$$$$$$$\ \$$$$$$$ |       $$$$$$  |$$ |  $$ |         $$ |\$$$$$$  |$$$$$$$  |      
+\________|\_______| \____$$ | \_______| \_______| \____$$ |       \______/ \__|  \__|         \__| \______/ $$  ____/       
+                   $$\   $$ |                    $$\   $$ |                                                 $$ |            
+                   \$$$$$$  |                    \$$$$$$  |                                                 $$ |            
+                    \______/                      \______/                                                  \__|       
